@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Organizzazione POLIMI//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESAMI E SCADENZE
+X-APPLE-CALENDAR-COLOR:#D94255
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:polimi-winter-2026-rl-delivery@ics-planner
+DTSTAMP:20261107T122456Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Reti Logiche - consegna progetto
+DESCRIPTION:Progetto completo. Verificare file\, documentazione e procedura
+  di consegna. Eventuale discussione da fissare.
+TRANSP:TRANSPARENT
+SEQUENCE:0
+LAST-MODIFIED:20261107T122456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:polimi-winter-2026-ele-exam@ics-planner
+DTSTAMP:20261107T122456Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Elettronica - secondo parziale
+DESCRIPTION:Appello obiettivo. Data dalla bozza: verificare conferma\, orar
+ io\, aula e iscrizione. Soglia minima 17/33\; media 50/50 con il primo par
+ ziale. Secondo parziale non recuperabile.
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+SEQUENCE:0
+LAST-MODIFIED:20261107T122456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:polimi-winter-2026-bd-exam@ics-planner
+DTSTAMP:20261107T122456Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Basi di Dati 1 - esame
+DESCRIPTION:Appello obiettivo. Data dalla bozza: verificare conferma\, orar
+ io\, aula e iscrizione.
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+SEQUENCE:0
+LAST-MODIFIED:20261107T122456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:polimi-winter-2026-ai-exam@ics-planner
+DTSTAMP:20261107T122456Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Foundations of AI - esame Lanzi
+DESCRIPTION:Appello obiettivo. Data indicata dall'utente. Orario\, aula e s
+ cadenza iscrizione da verificare.
+TRANSP:TRANSPARENT
+SEQUENCE:0
+LAST-MODIFIED:20261107T122456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:polimi-winter-2026-bd-backup@ics-planner
+DTSTAMP:20261107T122456Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Basi di Dati 1 - eventuale recupero
+DESCRIPTION:Solo se necessario. Data dalla bozza: verificare conferma\, ora
+ rio\, aula e iscrizione. Nessuna preparazione aggiuntiva assegnata automat
+ icamente.
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+SEQUENCE:0
+LAST-MODIFIED:20261107T122456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:polimi-winter-2026-si-exam@ics-planner
+DTSTAMP:20261107T122456Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Sistemi Informativi - esame
+DESCRIPTION:Appello obiettivo. Data dalla bozza: verificare conferma\, orar
+ io\, aula e iscrizione.
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+SEQUENCE:0
+LAST-MODIFIED:20261107T122456Z
+END:VEVENT
+END:VCALENDAR
